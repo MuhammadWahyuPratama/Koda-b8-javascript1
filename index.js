@@ -1,9 +1,9 @@
 // Membuat program hitung luas dan keliling lingkaran
 
 const r = 12
-const pI = 22.7
-const luasLingkaran = pI * r * r
-const kelilingLingkaran = 2 * pI * r
+const pi = 3.14
+const luasLingkaran = pi * r * r
+const kelilingLingkaran = 2 * pi * r
 
 
 console.log(luasLingkaran)
