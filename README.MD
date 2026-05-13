@@ -16,8 +16,14 @@ e@{shape: rect, label: kelilingLingkaran = "2 * pI * r"}
 f@{shape: lean-r, label: '"{luasLingkaran}"'}
 g@{shape: lean-r, label: '"{kelilingLingkaran}"'}
 h@{shape: dbl-circ, label: "stop"}
-
-a-->b-->z-- true -->y
+w@{shape: diamond, label: 'typeof r !== "number"'}
+l@{shape: lean-r, label: '"r must be a number"'}
+a-->b
+b-->w
+w--false-->l
+l-->h
+w--true-->z
+z-- true -->y
 z-- false -->x
 x-->d
 y-->d
