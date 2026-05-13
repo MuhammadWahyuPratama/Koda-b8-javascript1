@@ -11,8 +11,8 @@ b@{shape: lean-r, label: "r" }
 c@{shape: lean-r, label: "phi=22/7"}
 d@{shape: rect, label: "pI * r * r"}
 e@{shape: rect, label: "2 * phi * r"}
-f@{shape: lean-r, label: "Luas Lingkaran"}
-g@{shape: lean-r, label: "Keliling lingkaran"}
+f@{shape: lean-r, label: '"{Luas Lingkaran}"'}
+g@{shape: lean-r, label: '"{Keliling lingkaran}"'}
 h@{shape: dbl-circ, label: "stop"}
 
 a-->b
