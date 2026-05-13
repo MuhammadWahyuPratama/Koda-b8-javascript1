@@ -1,6 +1,6 @@
-# Flowchart
+# Javascript1
 
-## Flowchart algoritma
+## Flowchart
 
 Membuat Flowchart berdasarkan alur program yang d buat
 
@@ -18,8 +18,8 @@ f@{shape: lean-r, label: '"{luasLingkaran}"'}
 g@{shape: lean-r, label: '"{kelilingLingkaran}"'}
 h@{shape: dbl-circ, label: "stop"}
 
-a-->b-->c-->z--true-->y
-z--false-->x
+a-->b-->c-->z-- true -->y
+z-- false -->x
 x-->d
 y-->d
 d-->e
