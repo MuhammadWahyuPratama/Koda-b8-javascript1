@@ -9,7 +9,7 @@ flowchart TD
 a@{shape: circle, label: "Start"}
 b@{shape: lean-r, label: "r" }
 d@{shape: rect, label: luasLingkaran ="pi * r * r"}
-z@{shape: diamond, label : "r % 22 / 7 == 0"}
+z@{shape: diamond, label : "r % 7 == 0"}
 y@{shape: rect, label: "pi=22/7" }
 x@{shape: rect, label: "pi=3.14"}
 e@{shape: rect, label: kelilingLingkaran = "2 * pI * r"}
