@@ -24,4 +24,4 @@ function sum(r) {
     console.log(kelilingLingkaran)
 }
 
-sum(7)
+sum(21)
