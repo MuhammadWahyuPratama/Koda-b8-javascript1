@@ -1,7 +1,7 @@
 // Membuat program hitung luas dan keliling lingkaran
 
 
-function sum(r) {
+function hitungLingkaran(r) {
     let pi
     if (typeof r !== "number") {
         console.log("r must be a number")
@@ -22,6 +22,7 @@ function sum(r) {
 
     console.log(luasLingkaran)
     console.log(kelilingLingkaran)
+
 }
 
-sum(21)
+hitungLingkaran(21)
